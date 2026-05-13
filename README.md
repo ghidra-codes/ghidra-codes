@@ -3,7 +3,7 @@
 # Hello! I'm Alex 👋
 
 <p>
-  <i>I build modern experiences for the web.</i>
+  <i>I build things for the web.</i>
 </p>
 
 <br />
