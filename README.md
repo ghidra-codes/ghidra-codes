@@ -1,5 +1,15 @@
-# Hello, i'm Alex
+<div align="center">
 
-I build modern experiences for the web.
+# Hello! I'm Alex
 
-[alexanderkallin.com](https://alexanderkallin.com)
+<p>
+  I build modern experiences for the web.
+</p>
+
+<br />
+
+<a href="https://alexanderkallin.com">
+  alexanderkallin.com
+</a>
+
+</div>
