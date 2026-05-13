@@ -1,13 +1,18 @@
 <div align="center">
 
-<h1 align="center">
-  Hello! I'm Alex. ☕
+<h1>
+  Hello! I'm Alex.
 </h1>
 
 <p>
   <i>I care about clean code and thoughtful web experiences.</i>
 </p>
 
+<sub>
+  Powered by good coffee ☕
+</sub>
+
+<br />
 <br />
 
 <a href="https://alexanderkallin.com">
