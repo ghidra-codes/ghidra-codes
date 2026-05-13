@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <i>Powered by good coffee ☕</i>
+  <i>Powered by good coffee </i>☕
 </p>
 
 <br />
