@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hello! I'm Alex 👋
+<h1 align="center">
+  Hello! I'm <strong>Alex</strong> 👋
+</h1>
 
 <p>
   <i>I care about clean code and thoughtful web experiences.</i>
