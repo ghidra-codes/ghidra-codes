@@ -10,7 +10,7 @@
 
 <a href="https://alexanderkallin.com">
   <img
-    src="https://img.shields.io/badge/alexanderkallin.com-111827?style=for-the-badge&label=Portfolio&labelColor=2563EB&color=111827"
+    src="https://img.shields.io/badge/alexanderkallin.com-1F2937?style=for-the-badge&label=Portfolio&labelColor=3B82F6"
     alt="Portfolio"
   />
 </a>
