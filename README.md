@@ -3,7 +3,7 @@
 # Hello! I'm Alex 👋
 
 <p>
-  <i>I build things for the web.</i>
+  <i>I care about clean code and thoughtful web experiences.</i>
 </p>
 
 <br />
