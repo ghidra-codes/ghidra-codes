@@ -5,14 +5,13 @@
 </h1>
 
 <p>
-  <i>I care about clean code and thoughtful web experiences.</i>
+  I care about clean code and thoughtful web experiences.
 </p>
 
-<sub>
-  Powered by good coffee ☕
-</sub>
+<p>
+  <i>Powered by good coffee ☕</i>
+</p>
 
-<br />
 <br />
 
 <a href="https://alexanderkallin.com">
