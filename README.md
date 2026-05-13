@@ -8,10 +8,6 @@
   I care about clean code and thoughtful web experiences.
 </p>
 
-<p>
-  <i>Powered by good coffee </i>☕
-</p>
-
 <br />
 
 <a href="https://alexanderkallin.com">
@@ -20,5 +16,11 @@
     alt="Portfolio"
   />
 </a>
+
+<br />
+
+<p>
+  <i>Powered by good coffee</i> ☕
+</p>
 
 </div>
