@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>
-  Hello! I'm <span style="color:#58A6FF;">Alex</span>
-</h1>
+# Hello! I'm Alex 👋
 
 <p>
   <i>I build modern experiences for the web.</i>
@@ -12,7 +10,7 @@
 
 <a href="https://alexanderkallin.com">
   <img
-    src="https://img.shields.io/badge/Portfolio-alexanderkallin.com-111827?style=for-the-badge&logo=vercel&logoColor=white"
+    src="https://img.shields.io/badge/Portfolio-alexanderkallin.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"
     alt="Portfolio"
   />
 </a>
